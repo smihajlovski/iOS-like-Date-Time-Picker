@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberPicker</string>
+    <string name="ios_style_picker">Simple iOS style date/time picker</string>
+</resources>

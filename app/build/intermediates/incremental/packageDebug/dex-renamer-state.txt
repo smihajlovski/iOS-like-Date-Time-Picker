@@ -1,0 +1,7 @@
+#Thu Mar 23 16:43:01 CET 2017
+base.0=C\:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f4b16ac8b7c389a3ba93c8e38bd6c8165a946f85
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38667f3f615d5076243d5d42fa208025947f436d\\classes.dex
+base.1=C\:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38667f3f615d5076243d5d42fa208025947f436d
+file.0=C\:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f4b16ac8b7c389a3ba93c8e38bd6c8165a946f85\\classes.dex

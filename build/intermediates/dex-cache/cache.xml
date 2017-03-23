@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\c802335fd4d11e730df5205fe783193fea8b5c8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c60ec54edf235b172f85d35ed4b40da0d71992d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\62ad109e0cfa3ebad8c98e9c6e0293581fe61386\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07dcbd488959ce392552e721364f15d331e3981a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\c29afbef95647baf50a274588f1c4ba18720a3ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fe9c63962f41f68d0af83a362940cb2898b00fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_38667f3f615d5076243d5d42fa208025947f436d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\147abd052fed54f46e3e19f2259b3b336dc94f3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e2c9897e99144b2576a2f634a4c9396b4cc5183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\c081fef5b65122a0c2ec36a64d39e67d71c62103\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_332428cbcd8c82036a535032950b1d573bcd3f0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\777c6e1096183b05b8cc2af00ae662a3e147a1bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2816818428fb9a77f39bb924ef833b6eec2c8bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\bfb8139af7294a8f138640fd5177cbba8027f583\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad986e86dba76693f86b52bed6815cbc431bb953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\a37eff5db8744b0a9a48a3170992ef6b5979c523\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0fb3d42102af7c1907e3b6007c107290d84c384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\.android\build-cache\e269bd2f993d5d86d20f15cac68620488e18d366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f53587990a032781bede2da6e91773061a01e41f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_5152679f59dea5bd20cb74bda5fa7dc12d1fe06f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1f07a995fe7cbe828d1f124e164197ba71df0ef">
+        <dex dex="C:\Users\ITCrowd-Stefan\AndroidStudioProjects\NumberPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f4b16ac8b7c389a3ba93c8e38bd6c8165a946f85\classes.dex" />
+    </item>
+
+</items>

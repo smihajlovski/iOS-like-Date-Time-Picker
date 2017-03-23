@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\smiha\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\smiha\\.android\\build-cache\\3bce93f818367e8e2b94f201ccd2e577269e2daf\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITCrowd-Stefan\\AndroidStudioProjects\\NumberPicker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ITCrowd-Stefan\\.android\\build-cache\\c29afbef95647baf50a274588f1c4ba18720a3ba\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]
